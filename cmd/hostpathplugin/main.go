@@ -22,7 +22,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/kubernetes-csi/csi-driver-host-path/pkg/hostpath"
+	"github.com/bshouse/csi-driver-host-path/pkg/hostpath"
 )
 
 func init() {
